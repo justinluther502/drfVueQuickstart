@@ -22,4 +22,3 @@ db.sqlite3
 *.njsproj
 *.sln
 **/__pycache__
-scratch.csv
